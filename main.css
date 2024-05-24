@@ -10,7 +10,7 @@
  90% { color: #6b2aff; } 
  100% { color: #e82aff; }
 }
-
+/* 무지개 */
 .rain{
 	animation: rainbowLink 0.9s step-end infinite;
 }
@@ -33,7 +33,7 @@
 }
 
 
-
+/* 글꼴 */
 .east-sea dokdo-regular {
   font-family: "East Sea Dokdo", sans-serif;
   font-weight: 400;
